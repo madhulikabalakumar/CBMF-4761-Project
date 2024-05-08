@@ -9,4 +9,5 @@ This repository contains Jupyter notebooks developed for analyzing single-cell R
   - `E-CURD-11.aggregated_filtered_normalised_counts.mtx`: The matrix file containing gene expression data.
   - `E-CURD-11.aggregated_filtered_normalised_counts.mtx_cols`: Column labels for the matrix, representing genes.
   - `E-CURD-11.aggregated_filtered_normalised_counts.mtx_rows`: Row labels for the matrix, representing individual cells.
+- **Sample Output**: A sample PAS file - pathway_activity_score_healthy.csv
   
